@@ -2,7 +2,7 @@
 
 A simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript**, which fetches real-time weather data using a public API.
 
-![Weather App Screenshot] (.weather-app-img/images/Screenshot.png)
+![Weather App Screenshot](.weather-app-img/images/Screenshot.png)
 
 ---
 
