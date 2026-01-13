@@ -9,7 +9,6 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 ## 🔗 Live Demo
 
 👉 [View Website](https://bhavin-hariyani-001b.github.io/weather_app/)  
-(Replace with your actual GitHub Pages URL)
 
 ---
 
